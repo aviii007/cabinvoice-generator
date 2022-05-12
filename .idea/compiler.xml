@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cabinvoice-generator" />
+
+        <module name="cabinvoice-generator-master" />
       </profile>
     </annotationProcessing>
   </component>
